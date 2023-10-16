@@ -1,0 +1,6 @@
+﻿  Source.c
+E:\ЛиОА\Project3\Source.c(25,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ЛиОА\Project3\Source.c(37,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ЛиОА\Project3\Source.c(79,6): warning C4013: menu: нет определения; предполагается "extern" с возвратом типа "int"
+Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Project3.vcxproj -> E:\ЛиОА\Project3\Debug\Project3.exe
