@@ -1,0 +1,5 @@
+﻿  helppls.c
+C:\Users\student\Desktop\4\helppls.c(93,35): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\student\Desktop\4\helppls.c(98,35): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+helppls.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Project4.vcxproj -> C:\Users\student\Desktop\3\ProjectOtPuza(1)\Debug\Project4.exe
