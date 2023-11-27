@@ -1,0 +1,3 @@
+﻿  30BALLOV.cpp
+E:\ЛиОА\Project9ePUZO\30BALLOV.cpp(143,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project9ePUZO.vcxproj -> E:\ЛиОА\Project9ePUZO\x64\Debug\Project9ePUZO.exe
