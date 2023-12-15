@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\ЛиОА\PUZO10\Source.cpp(31,9): warning C4101: err: неиспользованная локальная переменная
+E:\ЛиОА\PUZO10\Source.cpp(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ЛиОА\PUZO10\Source.cpp(96,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ЛиОА\PUZO10\Source.cpp(117,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ЛиОА\PUZO10\Source.cpp(137,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ЛиОА\PUZO10\Source.cpp(183,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PUZO10.vcxproj -> E:\ЛиОА\PUZO10\Debug\PUZO10.exe
