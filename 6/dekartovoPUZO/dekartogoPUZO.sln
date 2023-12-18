@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dekartogoPUZO", "dekartogoPUZO.vcxproj", "{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Debug|x64.ActiveCfg = Debug|x64
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Debug|x64.Build.0 = Debug|x64
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Debug|x86.Build.0 = Debug|Win32
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Release|x64.ActiveCfg = Release|x64
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Release|x64.Build.0 = Release|x64
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Release|x86.ActiveCfg = Release|Win32
+		{FF2B6B76-8CD1-4D1D-B002-39E02D42F1AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD156B2-E2A5-44D6-B4EE-3504EE7AE6C9}
+	EndGlobalSection
+EndGlobal

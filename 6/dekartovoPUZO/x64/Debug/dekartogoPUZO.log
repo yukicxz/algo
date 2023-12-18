@@ -1,0 +1,3 @@
+﻿  Source (3).cpp
+C:\Users\btwyu\OneDrive\Рабочий стол\курсач2\dekartogoPUZO\Source (3).cpp(337,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dekartogoPUZO.vcxproj -> C:\Users\btwyu\OneDrive\Рабочий стол\курсач2\dekartogoPUZO\x64\Debug\dekartogoPUZO.exe
