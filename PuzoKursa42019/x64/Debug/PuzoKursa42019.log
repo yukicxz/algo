@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\btwyu\OneDrive\Рабочий стол\курсач2\PuzoKursa42019\main.cpp(49,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\btwyu\OneDrive\Рабочий стол\курсач2\PuzoKursa42019\main.cpp(198,13): warning C4101: curb: неиспользованная локальная переменная
+  PuzoKursa42019.vcxproj -> C:\Users\btwyu\OneDrive\Рабочий стол\курсач2\PuzoKursa42019\x64\Debug\PuzoKursa42019.exe
